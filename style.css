@@ -1,0 +1,39 @@
+
+#tlo
+{
+    width: 100%;
+    height: 100%;
+    background-color: darkkhaki;
+    color: blue;
+}
+h1
+{
+    background-color: brown;
+    color: chartreuse;
+   
+}
+h2
+{
+    background-color: dimgrey;
+    color: hotpink;
+}
+p
+{
+    background-color: deepskyblue;
+    color: black;
+}
+p1
+{
+    background-color: crimson;
+    color: white;
+}
+p2
+{
+    background-color: green;
+    color: gold;
+}
+ol
+{
+    background-color: green;
+    color: gold;
+}
